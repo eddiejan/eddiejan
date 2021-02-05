@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Edian, and I've been coding PHP since 2002. Currently I'm 30 years old and linving in Eindhoven, NL.
+My name is Edian, and I've been coding PHP since 2002. Currently I'm 30 years old and living in Eindhoven, NL.
 Woopwoop.
 
 <!--
